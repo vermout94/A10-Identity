@@ -1,0 +1,4 @@
+config:
+  azure-native:location: germanywestcentral
+  azure:subscriptionId: 76ec05d1-aea1-4612-a53d-65456bb6faef
+
